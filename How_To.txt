@@ -1,0 +1,7 @@
+In the EXE folder you can find an EXE to run the tool.
+If you have issue relative to your antivirus, don't panic, there is no virus. This is a known false positive alert about winrar sfx and antivirus
+In the Sources fodler you can find sources of the tool.
+You can run the tool from there as below:
+powershell .\BIOS_Checker.ps1
+OR
+powershell -sta .\BIOS_Checker.ps1
